@@ -1,0 +1,13 @@
+.project
+target
+.classpath
+.settings
+*.orig
+bin
+.idea
+*.iml
+target
+.scalafmt.conf
+.bloop
+.metals
+.bsp
